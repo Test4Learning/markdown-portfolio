@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of my half elf D&D character](https://dndguide.com/wp-content/uploads/2018/05/Half-Elf-race.png)
