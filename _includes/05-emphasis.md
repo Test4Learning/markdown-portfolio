@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I **hate** describing myself so I'd rather test out emphasis on song titles. Let's try **_Telestai_ by Eidola**. 
